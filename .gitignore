@@ -1,0 +1,16 @@
+# Folders
+.pio
+
+# txt
+README
+
+# h
+password.h
+
+# json
+c_cpp_properties.json
+extensions.json
+launch.json
+
+# bin
+settings.bin
